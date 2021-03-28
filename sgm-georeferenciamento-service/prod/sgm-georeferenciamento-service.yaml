@@ -11,4 +11,4 @@ spring:
 
 api:
  ibge:
-  url: olajoao
+  url: olajoaod
