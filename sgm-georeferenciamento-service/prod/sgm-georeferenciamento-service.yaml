@@ -11,4 +11,4 @@ spring:
 
 api:
  ibge:
-  url: https://servicodados.ibge.gov.br/api
+  url: https://servicodados.ibge.gov.br/ap
