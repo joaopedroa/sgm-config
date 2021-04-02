@@ -7,4 +7,7 @@ zuul:
   users:
    service-id: sgm-users-service
    path: /sgm-users-service/**
+  oauth:
+   service-id: sgm-oauth-service
+   path: /sgm-oauth-service/**
   
