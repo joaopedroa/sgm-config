@@ -5,3 +5,5 @@ oauth:
 
 jwt:
  secret: SGM-JWT-SECRET-98541357
+ validity:
+  seconds: 86400
