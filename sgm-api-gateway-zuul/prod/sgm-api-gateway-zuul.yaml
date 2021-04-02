@@ -4,3 +4,7 @@ zuul:
   georeferenciamento:
    service-id: sgm-georeferenciamento-service
    path: /sgm-georeferenciamento-service/**
+  users:
+   service-id: sgm-users-service
+   path: /sgm-users-service/**
+  
